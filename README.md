@@ -31,21 +31,22 @@ For me, code isn’t just logic, it’s **craftsmanship**: shaping ideas into im
 
 **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)  
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)  
 
 📫 Reach me at:  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Twitter](https://twitter.com/yourhandle)
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) 
 
 ## 📢 Connect with Me
-[🌐 Website](https://yourwebsite.com) | [✍️ Medium](https://medium.com/@yourhandle) | [📰 Substack](https://your.substack.com)
+[🌐 Website](https://yourwebsite.com) | [✍️ Medium](https://medium.com/@yourhandle) 
 
 ---
 ## 🔹 Fun Fact
-I love **cinematography** and **blending tech with creativity**.  
-"Ace of Diamonds" is my favorite sports anime, as it highlights the importance of **teamwork** while emphasizing delivering **an ace performance and attitude** in every game.  
+I enjoy **cinematography** and **blending tech with creativity**.  
+"⚾Ace of Diamonds" is my favorite sports anime, as it highlights the importance of **teamwork** while emphasizing delivering **an ace performance and attitude** in every game.  
 When I’m not coding, you’ll often find me **experimenting with new design tools** or exploring **creative AI applications**.
+
+## 
+Lets collaborate & bring our "ACE' problem solving skills into the digital life. 
